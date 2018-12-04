@@ -1,5 +1,5 @@
 ### pairs_trading_cryptocurrencies_strategy_catalyst
-Pairs trading strategy example based on Catalyst. This article describes the strategy
+Pairs trading strategy example based on Catalyst. This article describes the strategy https://towardsdatascience.com/pairs-trading-with-cryptocurrencies-e79b4a00b015
 
 This strategy uses Catalyst framework for backtesting https://enigma.co/catalyst/beginner-tutorial.html
 
